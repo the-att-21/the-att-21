@@ -1,4 +1,4 @@
-<h1 align = "center">👋 Hi, I’m Datta Gangji <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h2 align = "center">👋 Hi, I’m Datta Gangji <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
