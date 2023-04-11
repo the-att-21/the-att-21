@@ -16,14 +16,3 @@
 <a href="https://raw.githubusercontent.com/the-att-21/cf-stats/main/output/light_card.svg#gh-dark-mode-only"><img src = "https://raw.githubusercontent.com/the-att-21/cf-stats/main/output/light_card.svg#gh-dark-mode-only"> </a>
 </p>
 
-
-
-- 👀 I’m interested in Coding and Android Development...
-- 🌱 I’m currently learning C++ and practicing Competitive Programming on Codechef...
-- 💞️ I’m looking to collaborate on many projects ahead...
-- 📫 How to reach me...
-
-<!---
-the-att-21/the-att-21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
