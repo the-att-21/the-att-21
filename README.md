@@ -9,10 +9,6 @@
 <h3 align = "center"> Here are some of my Competetive Programming Stats! </h3>
 
 <p align = "center">
-<a href="https://leetcard.jacoblin.cool/the_att_21?theme=dark"><img src = "https://leetcard.jacoblin.cool/the_att_21?theme=dark"> </a>
-</p>
-
-<p align = "center">
 <a href="https://raw.githubusercontent.com/the-att-21/cf-stats/main/output/light_card.svg#gh-dark-mode-only"><img src = "https://raw.githubusercontent.com/the-att-21/cf-stats/main/output/light_card.svg#gh-dark-mode-only"> </a>
 </p>
 
